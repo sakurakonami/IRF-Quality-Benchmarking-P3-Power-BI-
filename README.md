@@ -26,13 +26,14 @@ The result from the dashboard and the report will provide a governed BI solution
 
 ## Tools Utilized
 * Power BI Desktop 
-* GitHub: [Link to Full Project]("https://github.com/sakurakonami/IRF-Quality-Benchmarking-P3-Power-BI-.git")
+* GitHub: [Link to Full Project](https://github.com/sakurakonami/IRF-Quality-Benchmarking-P3-Power-BI-.git)
 * Microsoft Visual Studio Code
 * Power Query 
 * DAX & DAX query view
 * Power BI Service
-* [Google Doc]("https://docs.google.com/document/d/e/2PACX-1vRAlwpR0QprkGuKsh9RJUsiXrFBdFiAORjgvfUYAy8VJ6hrjoETRbjo-GgbaEazrPv8QcR4tRLYIEDo/pub")
-* Data pulled from my first two Projects: **Part 1** SQL/ Postgres: [Hospital Rehab Analysis]("https://github.com/sakurakonami/Hospital-Rehab-Analysis.git")  **Part 2** Excel:  [IRF-Quality-Benchmarking]("https://github.com/sakurakonami/IRF-Quality-Benchmarking.git")
+* [LinkedIn](www.linkedin.com/in/tabitha-harr)
+* [Google Doc](https://docs.google.com/document/d/e/2PACX-1vRAlwpR0QprkGuKsh9RJUsiXrFBdFiAORjgvfUYAy8VJ6hrjoETRbjo-GgbaEazrPv8QcR4tRLYIEDo/pub)
+* Data pulled from my first two Projects: **Part 1** SQL/ Postgres: [Hospital Rehab Analysis](https://github.com/sakurakonami/Hospital-Rehab-Analysis.git")  **Part 2** Excel:  [IRF-Quality-Benchmarking](https://github.com/sakurakonami/IRF-Quality-Benchmarking.git)
 
 ![](/Images/Paper%20Prototype.png)
 *Paper prototype of dashboard*
@@ -139,3 +140,4 @@ The project demonstrates that quality data can be turned into a trustworthy refe
 * Consistent semantic color coding
 * Plain-language explanation of the composite score
 * Printable audit page for governance review
+
