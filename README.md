@@ -137,6 +137,5 @@ The project demonstrates that quality data can be turned into a trustworthy refe
 
 * Executive-ready KPI layout
 * Consistent semantic color coding
-
 * Plain-language explanation of the composite score
 * Printable audit page for governance review
